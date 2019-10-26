@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "node-sass": "^4.13.0",
     "source-map-explorer": "^2.1.0"
   }
 }
