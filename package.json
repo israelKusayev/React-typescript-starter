@@ -9,6 +9,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "lint": "eslint --ext js,ts,tsx src",
     "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-scripts start",
     "build": "react-scripts build",
