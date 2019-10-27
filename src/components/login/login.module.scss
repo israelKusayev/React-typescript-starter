@@ -1,0 +1,10 @@
+//https://programmingwithmosh.com/react/css-modules-react/ @import 'styles/colors';
+@import 'styles/colors';
+
+:global(.has-error) {
+  color: red;
+}
+
+.input {
+  border: 1px solid $app-red;
+}
