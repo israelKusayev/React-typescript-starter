@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ErrorBoundary /> renders children if no error 1`] = `
+<div>
+  <h1>
+    I am inside the error boundary
+  </h1>
+</div>
+`;
